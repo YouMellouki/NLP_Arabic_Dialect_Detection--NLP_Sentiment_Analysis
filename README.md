@@ -1,1 +1,4 @@
-# NLP_Arabic_Dialect_Detection--NLP_Sentiment_Analysis
+# NLP_Arabic_Dialect_Detection--_Sentiment_Analysis_
+# Prerequisites
+- Scikit Learn
+- Pandas 
